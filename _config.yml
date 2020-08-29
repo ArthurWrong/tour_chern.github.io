@@ -13,8 +13,8 @@ timezone: 'zh-CN'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+url: https://arthurwrong.github.io/tour_space/
+root: /tour_space/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
